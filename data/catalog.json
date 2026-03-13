@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 1250,
+  "total": 1251,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -18066,6 +18066,32 @@
         "output"
       ],
       "path": "skills/llm-prompt-optimizer/SKILL.md"
+    },
+    {
+      "id": "llm-structured-output",
+      "name": "llm-structured-output",
+      "description": "Get reliable JSON, enums, and typed objects from LLMs using response_format, tool_use, and schema-constrained decoding across OpenAI, Anthropic, and Google APIs.",
+      "category": "data-ai",
+      "tags": [
+        "llm",
+        "structured",
+        "output"
+      ],
+      "triggers": [
+        "llm",
+        "structured",
+        "output",
+        "get",
+        "reliable",
+        "json",
+        "enums",
+        "typed",
+        "objects",
+        "llms",
+        "response",
+        "format"
+      ],
+      "path": "skills/llm-structured-output/SKILL.md"
     },
     {
       "id": "local-legal-seo-audit",

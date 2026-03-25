@@ -900,6 +900,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "app-store-changelog",
+    "path": "skills/app-store-changelog",
+    "category": "uncategorized",
+    "name": "app-store-changelog",
+    "description": "Generate user-facing App Store release notes from git history since the last tag.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "app-store-optimization",
     "path": "skills/app-store-optimization",
     "category": "marketing",
@@ -6040,6 +6050,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "github",
+    "path": "skills/github",
+    "category": "uncategorized",
+    "name": "github",
+    "description": "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "github-actions-templates",
     "path": "skills/github-actions-templates",
     "category": "workflow",
@@ -6900,6 +6920,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "ios-debugger-agent",
+    "path": "skills/ios-debugger-agent",
+    "category": "mobile",
+    "name": "ios-debugger-agent",
+    "description": "Debug the current iOS project on a booted simulator with XcodeBuildMCP.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "ios-developer",
     "path": "skills/ios-developer",
     "category": "mobile",
@@ -7608,6 +7638,26 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "macos-menubar-tuist-app",
+    "path": "skills/macos-menubar-tuist-app",
+    "category": "uncategorized",
+    "name": "macos-menubar-tuist-app",
+    "description": "Build, refactor, or review SwiftUI macOS menubar apps that use Tuist.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "macos-spm-app-packaging",
+    "path": "skills/macos-spm-app-packaging",
+    "category": "uncategorized",
+    "name": "macos-spm-app-packaging",
+    "description": "Scaffold, build, sign, and package SwiftPM macOS apps without Xcode projects.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "magic-animator",
@@ -8910,6 +8960,16 @@
     "date_added": null
   },
   {
+    "id": "orchestrate-batch-refactor",
+    "path": "skills/orchestrate-batch-refactor",
+    "category": "uncategorized",
+    "name": "orchestrate-batch-refactor",
+    "description": "Plan and execute large refactors with dependency-aware work packets and parallel analysis.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "os-scripting",
     "path": "skills/os-scripting",
     "category": "workflow-bundle",
@@ -9520,6 +9580,16 @@
     "date_added": null
   },
   {
+    "id": "project-skill-audit",
+    "path": "skills/project-skill-audit",
+    "category": "uncategorized",
+    "name": "project-skill-audit",
+    "description": "Audit a project and recommend the highest-value skills to add or update.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "projection-patterns",
     "path": "skills/projection-patterns",
     "category": "architecture",
@@ -9778,6 +9848,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "react-component-performance",
+    "path": "skills/react-component-performance",
+    "category": "web-development",
+    "name": "react-component-performance",
+    "description": "Diagnose slow React components and suggest targeted performance fixes.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "react-flow-architect",
@@ -10920,6 +11000,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "simplify-code",
+    "path": "skills/simplify-code",
+    "category": "uncategorized",
+    "name": "simplify-code",
+    "description": "Review a diff for clarity and safe simplifications, then optionally apply low-risk fixes.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "site-architecture",
     "path": "skills/site-architecture",
     "category": "architecture",
@@ -11118,6 +11208,16 @@
     "risk": "unknown",
     "source": "community",
     "date_added": "2026-02-27"
+  },
+  {
+    "id": "snowflake-development",
+    "path": "skills/snowflake-development",
+    "category": "data-engineering",
+    "name": "snowflake-development",
+    "description": "Comprehensive Snowflake development assistant covering SQL best practices, data pipeline design (Dynamic Tables, Streams, Tasks, Snowpipe), Cortex AI functions, Cortex Agents, Snowpark Python, dbt integration, performance tuning, and security hardening.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-24"
   },
   {
     "id": "social-content",
@@ -11480,6 +11580,16 @@
     "date_added": "2026-03-18"
   },
   {
+    "id": "swift-concurrency-expert",
+    "path": "skills/swift-concurrency-expert",
+    "category": "uncategorized",
+    "name": "swift-concurrency-expert",
+    "description": "Review and fix Swift concurrency issues such as actor isolation and Sendable violations.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "swiftui-expert-skill",
     "path": "skills/swiftui-expert-skill",
     "category": "mobile",
@@ -11488,6 +11598,46 @@
     "risk": "unknown",
     "source": "community",
     "date_added": null
+  },
+  {
+    "id": "swiftui-liquid-glass",
+    "path": "skills/swiftui-liquid-glass",
+    "category": "mobile",
+    "name": "swiftui-liquid-glass",
+    "description": "Implement or review SwiftUI Liquid Glass APIs with correct fallbacks and modifier order.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "swiftui-performance-audit",
+    "path": "skills/swiftui-performance-audit",
+    "category": "mobile",
+    "name": "swiftui-performance-audit",
+    "description": "Audit SwiftUI performance issues from code review and profiling evidence.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "swiftui-ui-patterns",
+    "path": "skills/swiftui-ui-patterns",
+    "category": "mobile",
+    "name": "swiftui-ui-patterns",
+    "description": "Apply proven SwiftUI UI patterns for navigation, sheets, async state, and reusable screens.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "swiftui-view-refactor",
+    "path": "skills/swiftui-view-refactor",
+    "category": "mobile",
+    "name": "swiftui-view-refactor",
+    "description": "Refactor SwiftUI views into smaller components with stable, explicit data flow.",
+    "risk": "safe",
+    "source": "Dimillian/Skills (MIT)",
+    "date_added": "2026-03-25"
   },
   {
     "id": "sympy",
